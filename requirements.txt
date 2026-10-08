@@ -1,0 +1,3 @@
+Pillow
+olefile
+# piexif  # only needed to run the EXIF-writing examples in the README
